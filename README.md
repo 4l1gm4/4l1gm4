@@ -5,8 +5,8 @@
 - 👯 I’m looking to collaborate on anything except Typescript
 - 📫 How to reach me: create an issue in this repo: https://github.com/4l1gm4/4l1gm4
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=4l1gm4&show_icons=true&theme=radical" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4l1gm4&layout=compact" />
+<img align="left" width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=4l1gm4&show_icons=true&theme=radical" />
+<img align="left" width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=4l1gm4&layout=compact" />
 
 <img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
