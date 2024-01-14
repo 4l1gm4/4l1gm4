@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on some Javascript and python stuff
-- 🌱 I’m currently learning to unlearn
-- 👯 I’m looking to collaborate on anything except .net or angular
-- 📫 How to reach me: create an issue in this repo: https://github.com/4l1gm4/4l1gm4
+- 🌱 I’m currently learning Go
+- 👯 I’m looking to collaborate on anything except .net and angular
+- 📫 How to reach out: create an issue in this repo: https://github.com/4l1gm4/4l1gm4
 
 <img align="left" width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=4l1gm4&show_icons=true&theme=radical" />
 <img align="left" width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=4l1gm4&layout=compact" />
