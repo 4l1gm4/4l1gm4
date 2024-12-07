@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on some Javascript and python stuff
-- 🌱 I’m currently learning Go
 - 👯 I’m looking to collaborate on anything except .net and angular
 - 📫 How to reach out: create an issue in this repo: https://github.com/4l1gm4/4l1gm4
 
